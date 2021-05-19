@@ -9,6 +9,11 @@ https://doodlecricket.github.io/#/
 
 edit `main.py:10` window size
 
+```bash
+$ pip3 install -r requirements.txt
+$ python3 main.py
+```
+
 
 ## License
 
